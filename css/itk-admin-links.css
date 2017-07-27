@@ -1,0 +1,9 @@
+.itk-admin-links--overlay{background-color:#fff;bottom:0;left:0;opacity:0;position:fixed;right:0;top:0;transition:opacity .4s;transition-timing-function:ease-in-out;z-index:-1}
+.itk-admin-links--overlay.is-visible{opacity:.8;z-index:80}
+.itk-admin-links--icon{transition:transform .4s;transition-timing-function:ease-in-out;background:url("../images/edit.svg") gray center no-repeat;background-size:2em;border-radius:2em;bottom:2em;cursor:pointer;display:block;height:3.5em;position:fixed;right:2em;width:3.5em;z-index:81}
+.itk-admin-links--icon.is-open{-ms-transform: rotate(90deg);-webkit-transform: rotate(90deg);transform: rotate(90deg)}
+.itk-admin-links--items{bottom:-25em;height:20em;margin:0;padding:0;position:fixed;right:6.5em;transition:bottom .4s;transition-timing-function:ease-in-out;display:-ms-flexbox;display:flex;-ms-flex-direction:column-reverse;flex-direction:column-reverse;z-index:81}
+.itk-admin-links--items.is-open{bottom:2.2em}
+.itk-admin-links--item{color:#fff;list-style-type:none;text-align:right}
+.itk-admin-links--item a{background-color:gray;display:inline-block;padding:.5em;margin:.5em 0}
+.itk-admin-links--item a:link,.itk-admin-links--item a:visited{color:white}

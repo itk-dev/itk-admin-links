@@ -1,0 +1,10 @@
+{
+  "name": "drupal/itk-admin-links",
+  "description": "ITK admin links module",
+  "type": "drupal-module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

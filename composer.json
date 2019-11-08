@@ -1,5 +1,5 @@
 {
-  "name": "drupal/itk-admin-links",
+  "name": "itk-dev/itk-admin-links",
   "description": "ITK admin links module",
   "type": "drupal-module",
   "keywords": ["Drupal"],

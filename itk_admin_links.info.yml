@@ -3,5 +3,6 @@ description: Show an admin icon and a row of links.
 interface translation project: itk_admin_links
 interface translation server pattern: modules/contrib/itk-admin-links/translations/itk_admin_links.%language.po
 package: ITK
+core_version_requirement: ^8 || ^9
 type: module
 core: 8.x
